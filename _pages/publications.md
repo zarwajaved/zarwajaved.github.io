@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+<br><br>
 
 * **Online tool condition monitoring for ultrasonic metal welding via sensor fusion and machine learning** <br>
 Qasim Nazir, Chenhui Shao <br>
