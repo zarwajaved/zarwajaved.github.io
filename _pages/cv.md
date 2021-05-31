@@ -18,7 +18,7 @@ Education
 | M.S. in Mechanical Engineering 	| University of Illinois at Urbana Champaign (UIUC), USA          	| 3.95 	| Fall 2018 - Spring 2020 	|
 | B.S. in Mechanical Engineering 	| National University of Sciences and Technology (NUST), Pakistan 	| 3.97 	| Fall 2011 - Spring 2015 	|
 
-Work experience
+Work Experience
 ======
 
 * **Software Engineer in Test – Data Tools** | [MathWorks Inc.](https://www.mathworks.com/) | Mar 2021 - Present
@@ -31,9 +31,9 @@ Work experience
   * Authored MATLAB example ‘Remaining Useful Life (RUL) estimation using Convolutional Neural Network’ [url]
 
 *  **Student Data Analyst** | John Deere | Jun 2019 - May 2020
-  * Delivered scientific computing solutions for business needs of Soil & Crop Systems team. Projects spanned across fields such as signal processing, image processing, computer vision, and 3D point-cloud processing. 
-  * Automated data parsing, processing & analysis tasks using MATLAB & python and reduced ETL runtime by 95%.
-  * Created easy to use data processing GUIs for operators having minimal programming experience.
+    *  Delivered scientific computing solutions for business needs of Soil & Crop Systems team. Projects spanned across fields such as signal processing, image processing, computer vision, and 3D point-cloud processing. 
+    *  Automated data parsing, processing & analysis tasks using MATLAB & python and reduced ETL runtime by 95%.
+    *  Created easy to use data processing GUIs for operators having minimal programming experience.
 
 * **Research Assistant** | [Automation & Digital Manufacturing Lab, UIUC](https://shaolab.mechse.illinois.edu/) | Sep 2018 – May 2020
   * Installed automated data acquisition system from IoT sensors. Developed & deployed a machine learning based model for online tool condition monitoring of ultrasonic welder. This work resulted in journal publication [url]. 
