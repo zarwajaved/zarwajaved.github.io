@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* Georgia Institue of Technology, USA. Jan 2021 - Present
-  * Online Master of Science in Computer Science ([OMSCS](https://omscs.gatech.edu/home)), *CGPA: 4.00*
-* University of Illinois at Urbana Champaign ([UIUC](https://mechse.illinois.edu/)), USA. Aug 2018 - May 2020 
-  * Master of Science in Mechanical Engineering, Advisor: [Prof. Chenhui Shao](https://grainger.illinois.edu/about/directory/faculty/chshao), *CGPA: 3.95*
-* National University of Sciences and Technology ([NUST](https://nust.edu.pk/)), Pakistan. Sep 2011 - June 2015
-  * Bachelors of Science in Mechanical Engineering, *CGPA: 3.97*
+
+| Degree Program                 	| Institute                                                       	| CGPA 	| Timeline                	|
+|--------------------------------	|-----------------------------------------------------------------	|------	|-------------------------	|
+| M.S. in Computer Science       	| Georgia Institute of Technology, USA                            	| 4.00 	| Spring 2021 - Present   	|
+| M.S. in Mechanical Engineering 	| University of Illinois at Urbana Champaign (UIUC), USA          	| 3.95 	| Fall 2018 - Spring 2020 	|
+| B.S. in Mechanical Engineering 	| National University of Sciences and Technology (NUST), Pakistan 	| 3.97 	| Fall 2011 - Spring 2015 	|
 
 Work experience
 ======
