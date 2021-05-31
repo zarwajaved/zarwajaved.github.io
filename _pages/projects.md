@@ -7,9 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-Projects
-======
-
 * **LSTM based early diagnosis of Sepsis-3**
   * Key Technologies: Computer Vision, Instance Segmentation
   * Tools Used: PyTorch, MATLAB, detectron2, Linux, GPU
