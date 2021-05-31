@@ -21,21 +21,21 @@ Education
 Work Experience
 ======
 
-* **Software Engineer in Test – Data Tools** | [MathWorks Inc.](https://www.mathworks.com/) | Mar 2021 - Present
+* **Software Engineer in Test – Data Tools** , [MathWorks Inc.](https://www.mathworks.com/) , Mar 2021 - Present
   *	Design and development of automated test suites to catch bugs & deliver high quality products to customers. 
   *	Maintain testing platform, debug test failures, perform root-cause analysis, & resolve bugs in a timely manner.
-* **Application Support Engineer** | [MathWorks Inc.](https://www.mathworks.com/) | May 2020 - Mar 2021
+* **Application Support Engineer** , [MathWorks Inc.](https://www.mathworks.com/) , May 2020 - Mar 2021
   * Performed root cause analysis and provided timely resolution of customer’s complex technical problems that span across multiple MATLAB products such as Computer Vision, Statistics & ML, DL and their applications.
   * Coached newer engineers about best practices on working with customers via email and phone support. 
   * Profiled training time for image segmentation network implementations in MATLAB & PyTorch (detectron2). Identified bottlenecks and presented findings to the development team for algorithm improvement. 
   * Authored MATLAB example ‘Remaining Useful Life (RUL) estimation using Convolutional Neural Network’ [url]
 
-*  **Student Data Analyst** | John Deere | Jun 2019 - May 2020
+*  **Student Data Analyst** , John Deere , Jun 2019 - May 2020
     *  Delivered scientific computing solutions for business needs of Soil & Crop Systems team. Projects spanned across fields such as signal processing, image processing, computer vision, and 3D point-cloud processing. 
     *  Automated data parsing, processing & analysis tasks using MATLAB & python and reduced ETL runtime by 95%.
     *  Created easy to use data processing GUIs for operators having minimal programming experience.
 
-* **Research Assistant** | [Automation & Digital Manufacturing Lab, UIUC](https://shaolab.mechse.illinois.edu/) | Sep 2018 – May 2020
+* **Research Assistant** , [Automation & Digital Manufacturing Lab, UIUC](https://shaolab.mechse.illinois.edu/) , Sep 2018 – May 2020
   * Installed automated data acquisition system from IoT sensors. Developed & deployed a machine learning based model for online tool condition monitoring of ultrasonic welder. This work resulted in journal publication [url]. 
   
 Skills
