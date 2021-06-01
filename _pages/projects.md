@@ -7,46 +7,36 @@ author_profile: true
 
 {% include base_path %}
 
-* **LSTM based early diagnosis of Sepsis-3** (refer to [github repo](https://github.com/qasimnazir/LSTM-based-Sepsis-Prediciton) for details)
-  * Tools & Technologies Used: [MIMIC-III Clinical Database](https://physionet.org/content/mimiciii/1.4/), Google Big Query, SQL, PySpark, Feature Engineering, PyTorch, LSTM
+* **Online Tool Condition Monitoring for Ultrasonic Welding via Sensor Fusion and Machine Learning**, [MS Thesis](https://www.ideals.illinois.edu/handle/2142/108054), [paper](https://www.sciencedirect.com/science/article/abs/pii/S1526612520308860?dgcid=coauthor)
+  * The objective of master's thesis was to develop an online tool condition moitoring system for Ultrasonic Welding. 
+  * The  scope of work covered installation of automated sensor data acquisition system, data collection,
+  feature engineering, classification model development, hyper-parameter tuning, and deployment (pdf).
+  * Tools & Technologies Used: DAQ, MATLAB, Feature Engineering, Machine Learning
   <details>
-    <summary>Click to expand details!</summary>
- 
+  Abstrac: In ultrasonic metal welding (UMW), tool wear significantly affects the weld quality and tool maintenance constitutes a substantial part of production cost. Thus, tool condition monitoring (TCM) is crucial for UMW. Despite extensive literature focusing on TCM for other manufacturing processes, limited studies are available on TCM for UMW. Existing TCM methods for UMW require offline high-resolution measurement of tool surface profiles, which leads to undesirable production downtime and delayed decision-making. This paper proposes a completely online TCM system for UMW using sensor fusion and machine learning (ML) techniques. A data acquisition (DAQ) system is designed and implemented to obtain in-situ sensing signals during welding processes. A large feature pool is then extracted from the sensing signals. A subset of features are selected and subsequently used by ML-based classification models. A variety of classification models are trained, validated, and tested using experimental data. The best-performing classification models can achieve close to 100% classification accuracy for both training and test datasets. The proposed TCM system not only provides real-time TCM for UMW but also can support optimal decision-making in tool maintenance. The TCM system can be extended to predict remaining useful life (RUL) of tools and integrated with a controller to adjust welding parameters accordingly.
+   </details>
+
+* **LSTM based early diagnosis of Sepsis-3** ([github repo](https://github.com/qasimnazir/LSTM-based-Sepsis-Prediciton))
   * In this project, we focus on predicting sepsis, a medical condition where the immune system damages the body as a result of fighting infection. We introduce and replicate a Long Short-Term Memory (LSTM) neural network model that uses patient features from the Medical Information Mart for Intensive Care (MIMIC)-III dataset for early identification and prediction of sepsis, as defined by Sepsis-3. Ultimately, this report highlights the approach and results for sepsis prediction. 
    * The gaol of final project for [CSE 6240 Big Data for Health](http://sunlab.org/teaching/cse6250/spring2021/) was to use Big Data Tools for solving a HealthCare problem. We used SQL and PySpark to caluclate features from the database and then trained a LSTM model for sepsis prediction. 
- ![](Sepsis_Model_Performance.png)
- 
-  </details>
-
+   * Tools & Technologies Used: [MIMIC-III Clinical Database](https://physionet.org/content/mimiciii/1.4/), Google Big Query, SQL, PySpark, Feature Engineering, PyTorch, LSTM
 
 * **Performacne Testing and Comparison of Object Detection implementations in MATLAB and PyTorch**
-  * Tools & Technologies Used: Computer Vision, Instance Segmentation, Mask R-CNN, detectron2, PyTorch, MATLAB, Linux, GPU
-  <details>
-    <summary>Click to expand details!</summary>
- 
-  * The goal of the project was to profile deep neural network implementations for instance segmentation architectures both in MATLAB (Mask RCNN) and PyTorch ([detectron2](https://github.com/facebookresearch/detectron2)).
+  * The objective was to profile deep neural network implementations for instance segmentation architectures both in MATLAB (Mask RCNN) and PyTorch ([detectron2](https://github.com/facebookresearch/detectron2)).
   * Developed scripts for training models in MATLAB & PyTorch with same architecture & training options and log time for various somputation steps such data loading, forward pass, backward pass, roi generation etc.
   * Compared the profiling, identiied bottelnecks and presented findings to development team for performance improvement.
-  
-</details>
+  * Tools & Technologies Used: Computer Vision, Instance Segmentation, Mask R-CNN, detectron2, PyTorch, MATLAB, Linux, GPU 
 
-* **Deep learning approach for Remaining Useful Life (RUL) estimation**
-  * Implemented a deep learning approach for RUL estimation and compared performance with parametric
-  models. Created a documentation example using MATLAB Deep Learning Toolbox.
-  * Key Technologies: Computer Vision, Instance Segmentation
-  * Tools Used: PyTorch, MATLAB, detectron2, Linux, GPU
+* **Remaining Useful Life Estimation using Convolutional Neural Network**
+  * The objective was to create a documnetation example that guides customers regarding employing a deep learning approach for predictive maintenance of industrial machinary. 
+  * Implemented a deep learning approach for RUL estimation and compared performance with parametric models. 
+  * Created a [documentation example](https://www.mathworks.com/help/predmaint/ug/remaining-useful-life-estimation-using-convolutional-neural-network.html) using MATLAB Deep Learning Toolbox and [Turbofan Engine Degradation Simulation Data Set](https://ti.arc.nasa.gov/tech/dash/groups/pcoe/prognostic-data-repository/#turbofan)
+  * Tools & Technologies Used: MATLAB DeepLearning Toolbox, Predicitve Maintenance, CNN
 
-* **Online Tool Condition Monitoring for Ultrasonic Welding via Sensor Fusion and Machine Learning**
-  * The masters thesis work covered installation of automated sensor data acquisition system, data collection,
-  feature engineering, classification model development, hyper-parameter tuning, and deployment (pdf).
-  * Key Technologies: Computer Vision, Instance Segmentation
-  * Tools Used: PyTorch, MATLAB, detectron2, Linux, GPU
-
-
-* **Image Captioning using Convolutional Neural Networks (github)**
-  * Implemented an existing paper by using convolutional layers both for encoder and decoder. Did hyperparameter tuning and compared performance results from various latest    image encoder architectures.
-  * Key Technologies: Computer Vision, Instance Segmentation
-  * Tools Used: PyTorch, MATLAB, detectron2, Linux, GPU
+* **Image Captioning using Convolutional Neural Networks** ([github repo](https://github.com/pulkitdixit/IE534_ConvCap))
+  * The inspiration for this project was the paper - Convolutional Image Captioning by Jyoti Aneja, Aditya Deshpande and Alexander G. Schwing at the University of Illinois at Urbana-Champaign. The paper was one of the first to perform image captioning on the MSCOCO dataset using only CNNs as compared to traditional approaches that used Long Short Term Memory networks (LSTMs).
+  * For our project, we implemented a similar captioning system and aimed at improving evaluation scores by using deeper encoders, and tuning for values such as epochs, number of captions per image, temperature, etc.
+  * Tools & Technologies Used: Image Captioning, CNN, PyTorch, Linux, GPU
 
 
 * **Human Activity Recognition from videos**
