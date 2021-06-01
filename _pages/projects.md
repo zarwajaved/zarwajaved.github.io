@@ -7,16 +7,17 @@ author_profile: true
 
 {% include base_path %}
 
-* **LSTM based early diagnosis of Sepsis-3**
-  * Key Technologies: Computer Vision, Instance Segmentation
-  * Tools Used: PyTorch, MATLAB, detectron2, Linux, GPU
+* **LSTM based early diagnosis of Sepsis-3** (refer to [github repo](https://github.com/qasimnazir/LSTM-based-Sepsis-Prediciton) for details)
+  * In this project, we focus on predicting sepsis, a medical condition where the immune system damages the body as a result of fighting infection. We introduce and replicate a Long Short-Term Memory (LSTM) neural network model that uses patient features from the Medical Information Mart for Intensive Care (MIMIC)-III dataset for early identification and prediction of sepsis, as defined by Sepsis-3. Ultimately, this report highlights the approach and results for sepsis prediction. 
+  * The gaol of final project for [CSE 6240 Big Data for Health](http://sunlab.org/teaching/cse6250/spring2021/) was to use Big Data Tools for solving a HealthCare problem. We used SQL and PySpark to caluclate features from the database and then trained a LSTM model for sepsis prediction. 
+  * Tools & Technologies Used: [MIMIC-III Clinical Database](https://physionet.org/content/mimiciii/1.4/), Google Big Query, SQL, PySpark, Feature Engineering, PyTorch, LSTM
 
 
 * **Performacne Testing and Comparison of Object Detection implementations in MATLAB and PyTorch**
-  * Developed scripts for performance testing and comparison of MATLAB’s object detection (Mask RCNN)
-  implementation with that of PyTorch (detectron2). Presented findings for performance improvement.
-  * Key Technologies: Computer Vision, Instance Segmentation
-  * Tools Used: PyTorch, MATLAB, detectron2, Linux, GPU
+  * The goal of the project was to profile deep neural network implementations for instance segmentation architectures both in MATLAB (Mask RCNN) and PyTorch ([detectron2](https://github.com/facebookresearch/detectron2)).
+  * Developed scripts for training models in MATLAB & PyTorch with same architecture & training options and log time for various somputation steps such data loading, forward pass, backward pass, roi generation etc.
+  * Compared the profiling, identiied bottelnecks and presented findings to development team for performance improvement.
+  * Tools & Technologies Used: Computer Vision, Instance Segmentation, Mask R-CNN, detectron2, PyTorch, MATLAB, Linux, GPU
 
 
 * **Deep learning approach for Remaining Useful Life (RUL) estimation**
