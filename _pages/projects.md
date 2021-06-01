@@ -38,13 +38,11 @@ author_profile: true
   * For our project, we implemented a similar captioning system and aimed at improving evaluation scores by using deeper encoders, and tuning for values such as epochs, number of captions per image, temperature, etc.
   * Tools & Technologies Used: Image Captioning, CNN, PyTorch, Linux, GPU
 
-
 * **Human Activity Recognition from videos**
   * Trained deep learning models for classifying human activity from a video. Compared results from single
   video frame and multiple video frames models.
   * Key Technologies: Computer Vision, Instance Segmentation
   * Tools Used: PyTorch, MATLAB, detectron2, Linux, GPU
-
 
 * **Sentiment Analysis for IMDB Movie Reviews**
   * Pre-processed text data to be used by machine learning models. Implemented various techniques
@@ -52,15 +50,22 @@ author_profile: true
   * Key Technologies: Computer Vision, Instance Segmentation
   * Tools Used: PyTorch, MATLAB, detectron2, Linux, GPU
 
-
 * **Human Activities Classification from sensor signals**
   * The project covered feature engineering from sensor signals, machine learning model development, hyperparameter tuning and model selection.
-  * Key Technologies: Computer Vision, Instance Segmentation
-  * Tools Used: PyTorch, MATLAB, detectron2, Linux, GPU
+  * Tools & Technologies Used: PyTorch, MATLAB, detectron2, Linux, GPU
 
+* **Africa Soil Property Prediction and Clustering** ([github repo](https://github.com/qasimnazir/ECE-CS-498_Data-Science-and-Analytics_UIUC-Spring-2019/tree/master/Projects/%5BGraduate%20Project%5D%20Africa%20Soil%20Property%20Prediction%20and%20Clustering))
+  * The objective of course project was to go through all the steps in data science methodology such as problem definition, data collection, data pre-processing/cleaning, exploratory data analysis, feature engineering, model development, hyper-parameter tuning. 
+  * Problem Definintion: Measuring soil properties such as Ca, P, pH, SOC using tradional laboratory based methods is expensive. We developed a regression model to predict these proprties using cheap spectroscopy data.
+  * [Kaggle Challenge](https://www.kaggle.com/c/afsis-soil-properties/data), [project report](https://github.com/qasimnazir/ECE-CS-498_Data-Science-and-Analytics_UIUC-Spring-2019/blob/master/Projects/%5BGraduate%20Project%5D%20Africa%20Soil%20Property%20Prediction%20and%20Clustering/Project%20Report.pdf), [presentation](https://github.com/qasimnazir/ECE-CS-498_Data-Science-and-Analytics_UIUC-Spring-2019/blob/master/Projects/%5BGraduate%20Project%5D%20Africa%20Soil%20Property%20Prediction%20and%20Clustering/Presentation.pdf) 
+  * Tools & Technologies Used: Regression, Clusterng, Machine Learning, PCA, Pandas, SkLearn, Ensemble
 
 * **Accuracy-Centric Design & Fabrication of DELTA Parallel Manipulator (Undergrad Capstone Project)**
-  * The project covered solving robotic manipulator kinematics & dynamics, developing a geometric error
-  model in MATLAB, solving a optimation problem for minimzing geometric error, control system design, fabrication and assembly of robot parts.
-  * Key Technologies: Computer Vision, Instance Segmentation
-  * Tools Used: PyTorch, MATLAB, detectron2, Linux, GPU
+  * DELTA platform is a 3 DOF parallel robotic manipulator – a popular positioning architecture for additive manufacturing applications. 
+  * This project was declared the best capstone project in the mechanical engineering department for the batch 2011-2015. 
+  * The scope of project included:
+    * Architecture synthesis, Forward & Inverse Kinematics, Workspace determination
+    * Kinematic Error model & Optimization of Kinematic accuracy using MATLAB Optimization Toolbox
+    * Multibody Dynamics – performed rigid-body & flexible-body dynamic simulations using MSC ADAMS
+    * Control Systems Design – implemented a servo-motor position control model using Arduino-Mega
+    * Fabrication, Integration & Testing
