@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently working as Software Engineer in Test at MathWorks. 
 
-I love to code and play with numbers. herefore interested in scientific computing and artificial intelligence applications, as they provide perfect blend of problem-solving, mathematics, and coding experience. Over the past few years, I have gained hands-on experience and demonstrated aptitude in related fields such as data science, machine learning, deep learning, computer vision, signal/image processing through various academic, research and industrial projects.
+I love to code and play with numbers. Therefore obsessed with scientific computing and artificial intelligence applications, as they provide perfect blend of problem-solving, mathematics, and coding experience. Over the past few years, I have gained hands-on experience and demonstrated aptitude in related fields such as data science, machine learning, deep learning, computer vision, signal/image processing through various academic, research and industrial projects.
 
 Open to opportunities where I can do value-addition using my skill set, grow my career, learn from and coach others at the same time.
 
