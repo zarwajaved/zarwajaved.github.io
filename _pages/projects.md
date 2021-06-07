@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 * **Online Tool Condition Monitoring for Ultrasonic Welding via Sensor Fusion and Machine Learning**, [MS Thesis](https://www.ideals.illinois.edu/handle/2142/108054), [paper](https://www.sciencedirect.com/science/article/abs/pii/S1526612520308860?dgcid=coauthor)
-  * The objective of master's thesis was to develop an online tool condition moitoring system for Ultrasonic Welding. 
+  * The objective of MS thesis was to develop an online tool condition moitoring system for Ultrasonic Welding aiming to optimize tool life and reduce production downtime cost. 
   * The scope of work covered 
     * Installation of an automated data acquisition system using IoT sensors and NI DAQ device
     * Development of a GUI for data acquisition 
@@ -18,8 +18,13 @@ author_profile: true
   * *Tools & Technologies Used*: DAQ, MATLAB, Feature Engineering, Machine Learning
 
 * **LSTM based early diagnosis of Sepsis-3** ([github repo](https://github.com/qasimnazir/LSTM-based-Sepsis-Prediciton))
-  * In this project, we focus on predicting sepsis, a medical condition where the immune system damages the body as a result of fighting infection. We introduce and replicate a Long Short-Term Memory (LSTM) neural network model that uses patient features from the Medical Information Mart for Intensive Care (MIMIC)-III dataset for early identification and prediction of sepsis, as defined by Sepsis-3. Ultimately, this report highlights the approach and results for sepsis prediction. 
-   * The gaol of final project for [CSE 6240 Big Data for Health](http://sunlab.org/teaching/cse6250/spring2021/) was to use Big Data Tools for solving a HealthCare problem. We used SQL and PySpark to caluclate features from the database and then trained a LSTM model for sepsis prediction. 
+   * The gaol of final project for [CSE 6240 Big Data for Health](http://sunlab.org/teaching/cse6250/spring2021/) was to use Big Data Tools for solving a HealthCare problem.
+   * Problem Formulation: Develop a machine-learning based predicitve model for early detection of Sepsis which is a medical condition where the immune system damages the body as a result of fighting infection. 
+   * Methodology: 
+     *  Use SQL and PySpark to caluclate features from the Medical Information Mart for Intensive Care (MIMIC)-III dataset
+     *  Replicate and train a Long Short-Term Memory (LSTM) neural network model using the calculated features
+     *  Experimental evaluation and parameter tuning
+     *  Present findings in a report
    * *Tools & Technologies Used*: [MIMIC-III Clinical Database](https://physionet.org/content/mimiciii/1.4/), Google Big Query, SQL, PySpark, Feature Engineering, PyTorch, LSTM
 
 * **Performacne Testing and Comparison of Object Detection implementations in MATLAB and PyTorch**
