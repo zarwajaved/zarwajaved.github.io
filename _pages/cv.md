@@ -59,7 +59,7 @@ Publications
 Teaching Assistant
 ======
 * [MATLAB Fundamentals](https://www.mathworks.com/learn/online-courses/matlab-fundamentals.html), MathWorks Inc.
-* [TAM 210/211: Statics](https://courses.grainger.illinois.edu/tam210/sp2021/), Statics, Fall 2018, Fall 2019, Spring 2020
+* [TAM 210/211: Statics](https://courses.grainger.illinois.edu/tam210/sp2021/), Fall 2018, Fall 2019, Spring 2020
 * [TAM 212: Dynamics](https://courses.grainger.illinois.edu/tam212/sp2021/), Spring 2019
   
  Acaemic Achievements and Awards
