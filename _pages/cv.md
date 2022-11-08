@@ -11,7 +11,7 @@ redirect_from:
 
 Skills
 ======
-* Data Science, Machine Learning, Deep Learning, Big Data Analytics, Predictive Modeling, Computer Vision, Natural Language Processing, Image Processing, Signal Processing
+* Database Management, ETL, Data Cleaning/Visualization/Manipulation, Probability & Statistics, Linear Algebra, Data Reporting
 * Mathematics, Probability & Statistics, Calculus, Algebra, Object Oriented Programming, Data Structures & Algorithms
 * **Programming**: Python, MATLAB, SQL, JavaScript, Scala, R, C/C++, HTML/CSS
 * **Frameworks**: TensorFlow, PyTorch, Keras, Scikit-learn, OpenCV, Hadoop, MapReduce, Spark, NumPy, Pandas, SciPy, Pig, Hive
@@ -22,9 +22,11 @@ Education
 
 | Degree Program                 	| Institute                                                       	| Timeline                	|
 |--------------------------------	|-----------------------------------------------------------------	|-------------------------	|
-| M.S. in Computer Science       	| Georgia Institute of Technology, USA                            	| Spring 2021 - Present   	|
-| M.S. in Mechanical Engineering 	| University of Illinois at Urbana Champaign (UIUC), USA          	| Fall 2018 - Spring 2020 	|
-| B.S. in Mechanical Engineering 	| National University of Sciences and Technology (NUST), Pakistan 	| Fall 2011 - Spring 2015 	|
+| B.Sc. in Computer Engineering 	| University of Engineering & Technology (UET), Pakistan            | Fall 2014 - Spring 2018 	|
+
+Certifications
+======
+* Data Scientist with Python (datacamp career track)
 
 Work Experience
 ======
