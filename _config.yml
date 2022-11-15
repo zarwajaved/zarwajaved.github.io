@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qasim Nazir"
+title                    : "Zarwa Javed"
 title_separator          : "-"
-name                     : &name "Qasim Nazir"
+name                     : &name "Zarwa Javed"
 description              : &description "personal description"
-url                      : https://qasimnazir.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zarwajaved.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "qasimnazir.github.io"
+repository               : "zarwajaved.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Qasim Nazir"
+  name             : "Zarwa Javed"
   avatar           : "qasim_dp.png"
-  bio              : "Software Engineer in Test | Machine Learning | Deep Learning | Big Data Analytics | Python Developer"
-  location         : "Urbana, IL"
-  employer         : "MathWorks Inc."
+  bio              : "Application Consultant | Data Scientist | Data Analyst in Tableau"
+  location         : "Natick, MA"
+  employer         : 
   pubmed           : 
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : qasimnazir11@gmail.com
+  email            : zrjaved10@gmail.com
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "qasimnazir"
+  github           : "zarwajaved"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : qasim-nazir
+  linkedin         : zarwa-javed
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
