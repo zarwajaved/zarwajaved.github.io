@@ -1,3 +1,4 @@
+/*
 ---
 layout: archive
 title: "Publications"
@@ -15,3 +16,4 @@ Journal of Manufacturing Processes, 2020, [paper](https://www.sciencedirect.com/
 Mansoor Ghazi, Qasim Nazir, Sajid Ullah Butt, Aamer Ahmed Baqai <br>
 Procedia Manufacturing, 2018, [paper](https://www.sciencedirect.com/science/article/pii/S2351978918311491)<br>
 **Abstract:** Accuracy analysis of parallel manipulators is the first step in selecting an appropriate error model for further design. In this paper, kinematic accuracy of a Delta parallel manipulator is evaluated by Jacobian and geometric error models. The Jacobian (or condition number) based error models have been widely used for analysis and optimal design of parallel manipulators. However, as it is highlighted in this study, these models are dependent on the choice of particular matrix norm and do not capture the directional nature of accuracy. The geometric error model, derived for the Delta parallel manipulator, computes the exact value of positioning errors in task space that arise due to errors in joint space. The proposed model is used to compute overall as well as individual positioning errors along each DOF. It is revealed that; kinematic accuracy exhibits a highly directional nature over the reachable workspace. Moreover, individual errors along each DOF should be analyzed for complete evaluation of accuracy of the Delta parallel manipulator.
+*/
