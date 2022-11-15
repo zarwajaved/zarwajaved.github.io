@@ -11,11 +11,12 @@ redirect_from:
 
 Skills
 ======
-* Database Management, ETL, Data Cleaning/Visualization/Manipulation, Probability & Statistics, Linear Algebra, Data Reporting
-* Mathematics, Probability & Statistics, Calculus, Algebra, Object Oriented Programming, Data Structures & Algorithms
-* **Programming**: Python, MATLAB, SQL, JavaScript, Scala, R, C/C++, HTML/CSS
-* **Frameworks**: TensorFlow, PyTorch, Keras, Scikit-learn, OpenCV, Hadoop, MapReduce, Spark, NumPy, Pandas, SciPy, Pig, Hive
-* **Tools & Technologies**: git, Linux, Shell Scripting, Docker, JupyterLab, Cloud Computing, AWS, GCP
+* **Data Skills**: Database Management, ETL, Data Cleaning/Visualization/Manipulation, Probability & Statistics, Linear Algebra, Data Reporting
+* **Machine Learning**: PreProcessing, Feature Selection, Supervised/Unsupervised Learning, Deep Learning
+* **Programming**: Python, SQL, PL/SQL, HTML/CSS, MATLAB, C/C++
+* **Frameworks**: pandas, numpy, matplotlib, seaborn, scipy, scikit-learn, Oracle Flexcube
+* **Tools**: Power BI, Tableau, Jupyter Lab, SQL Developer, Linux, Shell Scripting, TOAD, Pentaho Data Integration 
+* **Others**: Application Consultancy, Product Development, Oracle Core Banking, Accuity’ Firco Compliance Link
 
 Education
 ======
@@ -27,47 +28,37 @@ Education
 Certifications
 ======
 * Data Scientist with Python (datacamp career track)
+* Data Analyst in Tableau (datacamp career track)
 
 Work Experience
 ======
 
-* [Mar 2021 - Present] **Software Engineer in Test – Data Tools** , [MathWorks Inc.](https://www.mathworks.com/)
-  *	Design and development of automated test suites to catch bugs & deliver high quality products to customers. 
-  *	Maintain testing platform, debug test failures, perform root-cause analysis, & resolve bugs in a timely manner.
-* [May 2020 - Mar 2021] **Application Support Engineer** , [MathWorks Inc.](https://www.mathworks.com/)
-  * Performed root cause analysis and provided timely resolution of customer’s complex technical problems that span across multiple MATLAB products such as Computer Vision, Statistics & ML, DL and their applications.
-  * Coached newer engineers about best practices on working with customers via email and phone support. 
-  * Profiled training time for image segmentation network implementations in MATLAB & PyTorch ([detectron2](https://github.com/facebookresearch/detectron2)). Identified bottlenecks and presented findings to the development team for algorithm improvement. 
-  * Authored MATLAB example ‘Remaining Useful Life (RUL) estimation using Convolutional Neural Network’ [url](https://www.mathworks.com/help//predmaint/ug/remaining-useful-life-estimation-using-convolutional-neural-network.html)
-
-*  [Jun 2019 - May 2020] **Student Data Analyst** , [John Deere](https://www.deere.com/en/)
-    *  Delivered scientific computing solutions for business needs of Soil & Crop Systems team. Projects spanned across fields such as signal processing, image processing, computer vision, and 3D point-cloud processing. 
-    *  Automated data parsing, processing & analysis tasks using MATLAB & python and reduced ETL runtime by 95%.
-    *  Created easy to use data processing GUIs for operators having minimal programming experience.
-
-* [Sep 2018 – May 2020] **Research Assistant** , [Automation & Digital Manufacturing Lab, UIUC](https://shaolab.mechse.illinois.edu/)
-  * Installed automated data acquisition system from IoT sensors. Developed & deployed a machine learning based model for online tool condition monitoring of ultrasonic welder. This work resulted in journal publication [url](https://www.sciencedirect.com/science/article/abs/pii/S1526612520308860). 
-
-* [Jul 2015 – Apr 2018] **Assistant Manager** , Public Sector R&D Organization, Pakistan
-  * Managed a team of 4 technicians and contributed towards product development projects in a R&D group.
-
-* [Summer 2013, Summer 2014] **Research Intern** , NUST, Pakistan
-
-Publications
-======
-* Nazir, Q. and Shao, C., 2021. Online tool condition monitoring for ultrasonic metal welding via sensor fusion and machine learning. Journal of Manufacturing Processes, [paper](https://www.sciencedirect.com/science/article/abs/pii/S1526612520308860)
-* Ghazi, M., Nazir, Q., Butt, S.U. and Baqai, A.A., 2018. Accuracy Analysis of 3-RSS Delta Parallel Manipulator. Procedia Manufacturing, [paper](https://www.sciencedirect.com/science/article/pii/S2351978918311491)
+* [Mar 2019 - Dec 2021] **Senior Application Consultant** , [Techlogix Inc.](https://www.techlogix.com/)
+  *	Oracle Flexcube Consultant: A Techno- functional member of Oracle Flexcube Lending module, providing support along with the implementation of Oracle FLEXCUBE to various banks of Pakistan (both government and private), which includes:
+  *	Resolving complex customization issues after root cause analysis, for both Islamic and consumer lending in Oracle FLEXCUBE Universal Banking.
+  *	Renew customizations as per the need of business flow.
+  *	Actively participate in resolving prompt critical issues.
+  *	Compose complex queries for data migration. 
+  *	As an oracle consultant, raised service requests for solving functionality defect issues with Oracle support providers and gather solutions.
   
-Teaching Assistant
-======
-* [MATLAB Fundamentals](https://www.mathworks.com/learn/online-courses/matlab-fundamentals.html), MathWorks Inc.
-* [TAM 210/211: Statics](https://courses.grainger.illinois.edu/tam210/sp2021/), Fall 2018, Fall 2019, Spring 2020
-* [TAM 212: Dynamics](https://courses.grainger.illinois.edu/tam212/sp2021/), Spring 2019
+  *	Technical Consultant: Working as a techno-functional in implementing Accuity’s Firco Compliance Link application and TBML (Trade Based Money Laundering) projects for different banks, which includes:
+  *	Installation and implementation of the application on Linux/window servers as the requirement of customers/banks.
+  *	Customize modules along with the required integrations (SOAP and REST API).
+  *	Gather requirements in requirement sessions and give trainings to their respective teams (business and IT teams) on system handling.
+
+* [June 2018 - Feb 2019] **Application Consultant** , [AlmusNet](https://almusnet.com/)
+  * Developed complex reports using ETLs via Pentaho reporting tool for local and international clients.
+  * Responsible for requirement gathering session, designing, analyzing the functionality gaps and implementation of academic, financial and online admission application portal modules for various institutions.
+  * Conclude definition sessions for new features for AlmusNet product.
+  * Performed audit for new features before its release.
+
+* [June 2017 – Sep 2017] **AI Intern** , Artificial Intelligence Research Lab, UET, Pakistan
+  * Worked in lab on Image processing, Artificial Intelligence and Deep Learning techniques to attain capstone project.
+
   
- Acaemic Achievements and Awards
+ Academic Achievements and Awards
 ======
-* Full Funding for Masters Program at UIUC, 2018-2020
-* 1st Position in Academics, President’s Gold Medal 2015, NUST-CEME
-* Best Capstone Project, Rector’s Gold Medal 2015, NUST-CEME
-* NESCOM Fellowship, 2011-2015
-* NUST GPA scholarships, 2011-2015
+* Awarded achiever of the month in Techlogix
+* Selected for ERICSSON'S ICT PROFESSIONAL FOUNDATION PROGRAM.
+* Scholarship throughout the college study.   
+* Gold Medalist in matriculation.
